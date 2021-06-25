@@ -2,6 +2,6 @@ en:
   js:
     login:
       oidc:
-        name: "OpenID Connect"
-        title: "with OpenID Connect"
-        message: "Authenticating with OpenID Connect"
+        name: "ToS;DR ID"
+        title: "with ToS;DR ID"
+        message: "Authenticating with ToS;DR ID"
